@@ -1,0 +1,69 @@
+body {
+	background-color: darkcyan;
+}
+nav {
+	background-color: orange;
+	height: 90px;
+}
+nav li {
+	float: left;
+	list-style: none;
+	margin: 10px 15px 5px 0;
+	font-family: "Arial";
+	cursor: pointer;
+}
+footer{
+	background-color: black;
+	color: #fff;
+	text-align: center;
+	clear: both;
+}
+a {
+	color: green;
+	text-decoration: none;
+
+}
+.wrapper{
+	background-color: #fff;
+	width: 90%;
+	margin:0 auto;
+}
+.Woz {
+	width: 100%;
+	overflow: hidden;
+}
+
+
+nav a:hover{
+	color: white;
+}
+.munch {
+	border-style: solid 1px;
+}
+pre {
+	border-style: solid;
+}
+.ruby{
+	border-style: solid;
+
+}
+main {
+	width: 70%;
+	float: left;
+}
+aside {
+	width: 30%;
+	float: right;
+}
+h1, h2, h3{
+	color: crimson;
+}
+h1 {
+	text-transform: uppercase;
+}
+h2 {
+	font-size: 2em;
+}
+h3 {
+	text-align: center;
+}
