@@ -4,6 +4,7 @@ body {
 nav {
 	background-color: orange;
 	height: 90px;
+	line-height: 60px;
 }
 nav li {
 	float: left;
@@ -65,5 +66,5 @@ h2 {
 	font-size: 2em;
 }
 h3 {
-	text-align: center;
+	text-align: center; 	
 }
